@@ -285,7 +285,7 @@ PODS:
   - React-jsinspector (0.71.14)
   - React-logger (0.71.14):
     - glog
-  - react-native-maps (1.10.3):
+  - react-native-maps (1.15.6):
     - React-Core
   - React-perflogger (0.71.14)
   - React-RCTActionSheet (0.71.14):
@@ -544,7 +544,7 @@ SPEC CHECKSUMS:
   React-jsiexecutor: 94cfc1788637ceaf8841ef1f69b10cc0d62baadc
   React-jsinspector: 7bf923954b4e035f494b01ac16633963412660d7
   React-logger: 655ff5db8bd922acfbe76a4983ffab048916343e
-  react-native-maps: 72a8a903f8a1b53e2c777ba79102078ab502e0bf
+  react-native-maps: 7b2c2cee95271592a92ba485eea1dec66a363a6e
   React-perflogger: 4987ad83731c23d11813c84263963b0d3028c966
   React-RCTActionSheet: 5ad952b2a9740d87a5bd77280c4bc23f6f89ea0c
   React-RCTAnimation: d2de22af3f536cc80bb5b3918e1a455114d1b985
